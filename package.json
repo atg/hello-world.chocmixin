@@ -1,0 +1,13 @@
+{
+  "name": "hello-world.mixin",
+  "version": "1.0",
+  "description": "An example Chocolat mixin",
+  "keywords": ["chocolat", "hello-world", "example"],
+  "author": "Alex Gordon <alex@fileability.net>",
+  "homepage": "http://github.com/fileablity/hello-world.mixin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fileablity/hello-world.mixin.git"
+  },
+  "license": "WTFPL"
+}
